@@ -1,0 +1,1 @@
+cmd_/home/fhelicia_selas_selestin/assignment3/fhelicia_devicedriver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/fhelicia_selas_selestin/assignment3/fhelicia_devicedriver.ko /home/fhelicia_selas_selestin/assignment3/fhelicia_devicedriver.o /home/fhelicia_selas_selestin/assignment3/fhelicia_devicedriver.mod.o ;  true
